@@ -1,7 +1,13 @@
-# sublimart output
+# Sublimart output
 <img width="1887" height="915" alt="image" src="https://github.com/user-attachments/assets/6771918f-1de5-438d-9458-72310c3569da" />
 
 <img width="1893" height="853" alt="image" src="https://github.com/user-attachments/assets/378c1195-a7f0-4dd2-a2bf-ca9634046e2a" />
+
+<img width="1883" height="915" alt="image" src="https://github.com/user-attachments/assets/56b3f1c7-5aeb-4413-9ea6-6868dfa7df5b" />
+
+<img width="1893" height="911" alt="image" src="https://github.com/user-attachments/assets/b03e1adf-1490-41a4-abfc-9fb87eab66e5" />
+
+
 
 
 
@@ -59,10 +65,9 @@ The project demonstrates:
 ## 📁 Project Structure
 
 ```
-project-folder/
+lab 4/
 │── index.html
 │── style.css
-│── images/ (optional)
 └── README.md
 ```
 
