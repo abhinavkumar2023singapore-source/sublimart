@@ -129,7 +129,7 @@ screenshots/
 
 ## ✨ Author
 
-**Abhinav Kumar (Hacknfinity)**
+**Abhinav Kumar **
 
-Feel free to customize, expand, or convert into a multi-page full ecommerce website.
+
 
