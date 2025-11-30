@@ -1,4 +1,8 @@
-# sublimart
+<img width="1887" height="915" alt="image" src="https://github.com/user-attachments/assets/6771918f-1de5-438d-9458-72310c3569da" /># sublimart output
+
+
+
+
 # SublimArt – Sublimation Printing E-Commerce Website
 
 A clean, professional, beginner-friendly e-commerce website built using **HTML5 and CSS3**. This project showcases a modern UI design suitable for SEM-1 students while maintaining a polished, real-world appearance.
