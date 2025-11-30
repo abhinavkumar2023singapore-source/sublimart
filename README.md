@@ -129,7 +129,7 @@ screenshots/
 
 ## ✨ Author
 
-**Abhinav Kumar **
+**  Abhinav Kumar **
 
 
 
